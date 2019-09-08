@@ -5,7 +5,7 @@
 
 **Rachael Chandler** - chandlra@mail.uc.edu
 
-## Faculty Advisor:
+## Faculty Advisor
 **TBD**
 
 ## Background Description
