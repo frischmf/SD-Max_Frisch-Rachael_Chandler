@@ -1,0 +1,4 @@
+# Individual Capstone Assessment
+### Maximilian Frisch
+
+This project, from my perspective, is an opportunity to learn technologies that I haven't yet had a chance to work with. I'm interested in learning how to program hobbyist computers like Arduino or the Raspberry Pi. Additionally it's an opportunity to develop a full scale project from the ground up; this gives me experience creating a project from scratch, which is vitally important to my growth as a developer. I think an area for me to grow in is learning how to develop for a specific audience, as well as learning what it looks like to apply the academic curriculum to a project without the assistance of an assignment paper telling me what to do.
