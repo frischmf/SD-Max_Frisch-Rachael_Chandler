@@ -47,7 +47,7 @@
     * More/less sunlight needed plants
     * Try different plant containers that retain water better than others
 
-16. Evalutate functionality
+16. Evaluate functionality
 
 17. Tweak project for better results
 
