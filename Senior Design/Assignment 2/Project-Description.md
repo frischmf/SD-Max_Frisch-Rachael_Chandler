@@ -6,7 +6,7 @@
 **Rachael Chandler** - chandlra@mail.uc.edu
 
 ## Faculty Advisor
-**TBD**
+**Professor James Hansel** - HanselJ@greatoaks.com
 
 ## Background Description
 Plants can be difficult to take care of - they require consistent attention of some sort, each species needs to be cared for differently, and unless you are familiar with plants you may not know what it is that a plant needs to be healthy and what it is lacking towards that end. Personally, as people who have killed multiple plants and who lack in the knowledge of proper plant care, we seek a technological solution that both aids in the process of plant care and informs us of it.
