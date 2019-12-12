@@ -139,6 +139,10 @@ We aim to monitor plant health and provide the plant-owner with relevant caretak
 
 ## Self-Assessment Essays
 
+[Max's Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%203/Assignment%203%20-%20Max%20Frisch.md)
+
+[Rachael's Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%203/Assigment%203%20-%20Rachael%20Chandler.md)
+
 ***
 
 ## Professional Biographies
