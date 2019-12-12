@@ -123,7 +123,7 @@ We aim to monitor plant health and provide the plant-owner with relevant caretak
 ***
 
 ### Timeline   
-<img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Assignment%206/Timeline.png" width="684.25">
+<img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Assignment%206/Timeline.png" width="1004">
 
 ***
 
