@@ -1,22 +1,29 @@
 # Plant Parenthood
 
 ## Table of Contents
-1. [Project Abstract](#project-abstract)
-2. [Project Description](#project-description)
-3. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
+1. [Project Repo](#project-repo)
+2. [Project Abstract](#project-abstract)
+3. [Project Description](#project-description)
+4. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
     * [User Stories](#user-stories)
     * [Design Diagrams](#design-diagrams)
-4. [Project Tasks and Timeline](#project-tasks-and-timeline)
+5. [Project Tasks and Timeline](#project-tasks-and-timeline)
     * [Task List](#task-list)
     * [Timeline](#timeline)
     * [Effort Matrix](#effort-matrix)
-5. [PPT Slideshow](#ppt-slideshow)
-6. [Self-Assessment Essays](#self-assessment-essays)
-7. [Professional Biographies](#professional-biographies)
-8. [Budget](#budget)
-9. [Appendix](#appendix)
+6. [PPT Slideshow](#ppt-slideshow)
+7. [Self-Assessment Essays](#self-assessment-essays)
+8. [Professional Biographies](#professional-biographies)
+9. [Budget](#budget)
+10. [Appendix](#appendix)
 
 ***
+
+## Project Repos
+Our code for this project is stored via Azure DevOps, the links are below:
+* PlantParenthood.Android: https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Android
+* PlantParenthood.Pi:  https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Pi
+* PlantParenthood.API: https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.API
 
 ## Project Abstract
 Our goal is to provide education and assistance for basic home plant-care.
