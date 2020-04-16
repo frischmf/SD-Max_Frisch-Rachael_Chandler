@@ -26,7 +26,7 @@ Our code for this project is stored via Azure DevOps, the links are below:
 * PlantParenthood.API: https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.API
 
 ## Project Abstract
-Our goal is to provide education and assistance for basic home plant-care.
+Plant Parenthood is an attempt to facilitate and modernize the at-home plant care experience. Our goal is to provide education and assistance for at-home plant care in a way that is accessible, affordable, and attractive through the use of effective metrics, valuable user feedback, and an aesthetically pleasing mobile application.
 
 ## Team Members
 **Maximilian Frisch** - frischmf@mail.uc.edu
