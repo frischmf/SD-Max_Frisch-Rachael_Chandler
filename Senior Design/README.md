@@ -1,23 +1,28 @@
 # Plant Parenthood
 
 ## Table of Contents
-1. [Project Repo](#project-repo)
-2. [Project Abstract](#project-abstract)
-3. [Project Description](#project-description)
-4. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
+1. [Project Videos](#project-videos)
+2. [Project Repo](#project-repo)
+3. [Project Abstract](#project-abstract)
+4. [Project Description](#project-description)
+5. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
     * [User Stories](#user-stories)
     * [Design Diagrams](#design-diagrams)
-5. [Project Tasks and Timeline](#project-tasks-and-timeline)
+6. [Project Tasks and Timeline](#project-tasks-and-timeline)
     * [Task List](#task-list)
     * [Timeline](#timeline)
     * [Effort Matrix](#effort-matrix)
-6. [PPT Slideshow](#ppt-slideshow)
-7. [Self-Assessment Essays](#self-assessment-essays)
-8. [Professional Biographies](#professional-biographies)
-9. [Budget](#budget)
-10. [Appendix](#appendix)
+7. [PPT Slideshow](#ppt-slideshow)
+8. [Self-Assessment Essays](#self-assessment-essays)
+9. [Professional Biographies](#professional-biographies)
+10. [Budget](#budget)
+11. [Appendix](#appendix)
 
 ***
+
+## Project Videos
+* Final Presentation: https://youtu.be/ASxNq7-KsSI
+* Demo Video: https://youtu.be/G5G5Bd6gEag
 
 ## Project Repos
 Our code for this project is stored via Azure DevOps, the links are below:
