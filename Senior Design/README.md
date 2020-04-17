@@ -61,16 +61,12 @@ We aim to monitor plant health and provide the plant-owner with relevant caretak
 ***
 
 ### Design Diagrams
-#### Design Diagram I
 [Design Diagram I](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Design_Diagrams/Design%20Diagram%20I.pdf)
 
-#### Design Diagram II
 [Design Diagram II](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Design_Diagrams/Design%20Diagram%20II.pdf)
 
-#### Design Diagram III
 [Design Diagram III](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Design_Diagrams/Design%20Diagram%20III.pdf)
 
-#### Design Diagram IV
 [Design Diagram IV](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Design_Diagrams/Design%20Diagram%20IV.pdf)
 
 ***
