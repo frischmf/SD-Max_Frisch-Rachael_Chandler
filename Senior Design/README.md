@@ -224,6 +224,7 @@ This summer I lead a project exploring a POC for implemeting robotic process aut
 * Pots, Plants, Soil... ~ $40
 
 **Total Estimated Cost: $125**
+
 **Actual Cost: ~$160**
 
 ***
