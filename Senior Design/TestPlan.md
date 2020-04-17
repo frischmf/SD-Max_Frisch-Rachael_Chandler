@@ -140,14 +140,14 @@ Therefore, our testing will significantly focus on the successful interactions b
 
 | Test Case | Purpose | Normal / Abnormal | Blackbox / Whitebox | Functional / Performance | Unit / Integration |
 |---|---|-----|---|---|---|---|---|
-| *API.I* | | |
-| *API.II* | | |
-| *API.III* | | |
-| *And.I* | | |
-| *And.II* | | |
-| *And.III* | | |
-| *Pi.I* | | |
-| *Pi.II* | | |
-| *Pi.III* | | |
+| *API.I* | |  |  | |  |
+| *API.II* | |  |  | |  |
+| *API.III* | |  |  | |  |
+| *And.I* | |  |  | |  |
+| *And.II* | |  |  | |  |
+| *And.III* | |  |  | |  |
+| *Pi.I* | |  |  | |  |
+| *Pi.II* | |  |  | |  |
+| *Pi.III* | |  |  | |  |
 
 ***
