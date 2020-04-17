@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Project Videos](#project-videos)
-2. [Project Repo](#project-repo)
+2. [Project Repos](#project-repos)
 3. [Project Abstract](#project-abstract)
 4. [Project Description](#project-description)
 5. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
@@ -13,22 +13,23 @@
     * [Timeline](#timeline)
     * [Effort Matrix](#effort-matrix)
 7. [PPT Slideshow](#ppt-slideshow)
-8. [Self-Assessment Essays](#self-assessment-essays)
+8. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
 9. [Professional Biographies](#professional-biographies)
 10. [Budget](#budget)
 11. [Appendix](#appendix)
+12. [Attributions](#attributions)
 
 ***
 
 ## Project Videos
-* Final Presentation: https://youtu.be/ASxNq7-KsSI
-* Demo Video: https://youtu.be/G5G5Bd6gEag
+* [Final Presentation](https://youtu.be/ASxNq7-KsSI)
+* [Demo Video](https://youtu.be/G5G5Bd6gEag)
 
 ## Project Repos
 Our code for this project is stored via Azure DevOps, the links are below:
-* PlantParenthood.Android: https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Android
-* PlantParenthood.Pi:  https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Pi
-* PlantParenthood.API: https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.API
+* [PlantParenthood.Android](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Android)
+* [PlantParenthood.Pi](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Pi)
+* [PlantParenthood.API](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.API)
 
 ## Project Abstract
 Plant Parenthood is an attempt to facilitate and modernize the at-home plant care experience. Our goal is to provide education and assistance for at-home plant care in a way that is accessible, affordable, and attractive through the use of effective metrics, valuable user feedback, and an aesthetically pleasing mobile application.
@@ -79,57 +80,54 @@ We aim to monitor plant health and provide the plant-owner with relevant caretak
 
 2. ~~Identify and contact a potential advisor with experience in either programming or horticulture~~
 
-3. Identify factors that will be monitored through **Plant Parenthood**
+3. ~~Identify factors that will be monitored through **Plant Parenthood**~~
 
-4. Research hardware
-    * Hub to control and monitor  
-    * Monitors for each factor  
-    * Cost  
-    * Interface with a mobile application  
+4. ~~Research hardware~~
+    * ~~Hub to control and monitor~~
+    * ~~Monitors for each factor~~  
+    * ~~Cost~~  
+    * ~~Interface with a mobile application~~
 
 5. ~~Meet with advisor to discuss idea and scope~~
 
-6. Research different types of plants
-    * Develop general categories based on needs i.e. water, sunlight, humidity, etc.
-    * Record helpful tips for each category (Ex. The plant you have chosen requires a lot of water!, Don't let this plant get too much sunlight!, etc.)
+6. ~~Research different types of plants~~
+    * ~~Develop general categories based on needs i.e. water, sunlight, humidity, etc.~~
+    * ~~Record helpful tips for each category (Ex. The plant you have chosen requires a lot of water!, Don't let this plant get too much sunlight!, etc.)~~
 
-7. Create plant database
-    * Include approximate needs for each plant/plant category
-    * Rating for each plant (Easy to care for, requires some attention, difficult to keep alive, etc.)
+7. ~~Create plant database~~
+    * ~~Include approximate needs for each plant/plant category~~
+    * ~~Rating for each plant (Easy to care for, requires some attention, difficult to keep alive, etc.)~~
 
-8. Research efficacies of different sensors to factors we are measuring i.e. which senors monitor soil moisture/environmental humidity/sunlight exposure/etc. best? 
+8. ~~Research efficacies of different sensors to factors we are measuring i.e. which senors monitor soil moisture/environmental humidity/sunlight exposure/etc. best?~~
 
-9. Obtain hardware
-    * Raspberry Pi
-    * Environmental monitors
+9. ~~Obtain hardware~~
+    * ~~Raspberry Pi~~
+    * ~~Environmental monitors~~
 
-10. Research mobile application platforms/languages
+10. ~~Research mobile application platforms/languages~~
 
-11. Obtain any necessary software or licenses
+11. ~~Obtain any necessary software or licenses~~
 
-12. Build mobile application
-    * Andriod
-    * iOS
-    * Possible web dashboard
+12. ~~Build mobile application~~
+    * ~~Android~~
 
-13. Program hardware and sensors
+13. ~~Program hardware and sensors~~
 
-14. Get mobile application and hardware working together to monitor conditions
+14. ~~Get mobile application and hardware working together to monitor conditions~~
 
-15. Develop tests for different types of plants and conditions
-    * Low/high moisture plants
-    * More/less sunlight needed plants
-    * Try different plant containers that retain water better than others
+15. ~~Develop tests for different types of plants and conditions~~
+    * ~~Low/high moisture plants~~
+    * ~~More/less sunlight needed plants~~
 
-16. Evaluate functionality
+16. ~~Evaluate functionality~~
 
-17. Tweak project for better results
+17. ~~Tweak project for better results~~
 
-18. Retest (Repeat 15, 16, 17 as needed)
+18. ~~Retest (Repeat 15, 16, 17 as needed)~~
 
-19. Write up report/presentation
+19. ~~Write up report/presentation~~
 
-20. Graduate
+20. Graduate - soon!
 
 ***
 
@@ -144,11 +142,13 @@ We aim to monitor plant health and provide the plant-owner with relevant caretak
 ***
 
 ## PPT Slideshow
-[Final Presentation](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Senior-Design%20Plant%20Parenthood.pptx)
+[Fall Presentation](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Videos_PowerPoints/Senior-Design%20Plant%20Parenthood_Fall%20Semester.pdf)
+
+[Final Presentation](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Videos_PowerPoints/Senior-Design%20Plant%20Parenthood_Final.pdf)
 
 ***
 
-## Self-Assessment Essays
+## Fall Semester Self-Assessment Essays
 
 [Max's Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%203/Assignment%203%20-%20Max%20Frisch.md)
 
@@ -190,13 +190,30 @@ This summer I lead a project exploring a POC for implemeting robotic process aut
 
 * Humidity Sensor ~ $10
 * Light Intensity Sensor ~ $9
-* Soil pH Sensor ~ $10
+* Soil pH Sensor ~ ~~$10~~ > $80
+* Analog to Digital Converter ~ $15
+* SD Card, Power Supply ~ $25
+* Wiring / Breadboards ~ $12
 
 ### Research Supplies
 * Pots, Plants, Soil... ~ $40
 
 **Total Estimated Cost: $125**
+**Actual Cost: ~$160**
 
 ***
 
 ## Appendix
+
+***
+
+## Attributions
+
+### Icons
+
+* [Cactus Vectors by Vecteezy](https://www.vecteezy.com/free-vector/cactus)
+* [Succulent Vectors by Vecteezy](https://www.vecteezy.com/free-vector/succulent)
+* [Freepik](www.flaticon.com)
+* [Rasmus Nielsen](https://www.iconfinder.com/iconsets/weatherful)
+
+***
