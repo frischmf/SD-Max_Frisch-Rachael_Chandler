@@ -213,7 +213,7 @@ This summer I lead a project exploring a POC for implemeting robotic process aut
 
 * [Cactus Vectors by Vecteezy](https://www.vecteezy.com/free-vector/cactus)
 * [Succulent Vectors by Vecteezy](https://www.vecteezy.com/free-vector/succulent)
-* [Freepik](www.flaticon.com)
+* [Freepik](https://www.flaticon.com)
 * [Rasmus Nielsen](https://www.iconfinder.com/iconsets/weatherful)
 
 ***
