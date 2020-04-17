@@ -26,6 +26,9 @@
 * [Final Presentation](https://youtu.be/ASxNq7-KsSI)
 * [Demo Video](https://youtu.be/G5G5Bd6gEag)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=G5G5Bd6gEag
+" target="_blank"><img src="http://img.youtube.com/vi/G5G5Bd6gEag/0.jpg" alt="Demo Video" width="240" height="180" /></a>
+
 ## Project Repos
 Our code for this project is stored via Azure DevOps, the links are below:
 * [PlantParenthood.Android](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Android)
