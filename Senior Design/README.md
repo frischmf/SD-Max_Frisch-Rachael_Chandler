@@ -1,41 +1,28 @@
 # Plant Parenthood
 
 ## Table of Contents
-1. [Project Videos](#project-videos)
-2. [Project Repos](#project-repos)
-3. [Project Abstract](#project-abstract)
-4. [Project Description](#project-description)
-5. [User Documentation](#user-documentation)
-6. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
+1. [Project Abstract](#project-abstract)
+    * [Team Members](#team-members)
+2. [Project Description](#project-description)
+3. [Project Videos](#project-videos)
+4. [Project Repos](#project-repos)
+5. [Test Plan](#test-plan)
+6. [User Documentation](#user-documentation)
+7. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
     * [User Stories](#user-stories)
     * [Design Diagrams](#design-diagrams)
-7. [Project Tasks and Timeline](#project-tasks-and-timeline)
+8. [Project Tasks and Timeline](#project-tasks-and-timeline)
     * [Task List](#task-list)
     * [Timeline](#timeline)
     * [Effort Matrix](#effort-matrix)
-8. [PPT Slideshow](#ppt-slideshow)
-9. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
-10. [Professional Biographies](#professional-biographies)
-11. [Budget](#budget)
-12. [Appendix](#appendix)
-13. [Attributions](#attributions)
+9. [PPT Slideshow](#ppt-slideshow)
+10. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
+11. [Professional Biographies](#professional-biographies)
+12. [Budget](#budget)
+13. [Appendix](#appendix)
+14. [Attributions](#attributions)
 
 ***
-
-## Project Videos
-* [Final Presentation](https://youtu.be/ASxNq7-KsSI)
-    
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=ASxNq7-KsSI" target="_blank"><img src="http://img.youtube.com/vi/ASxNq7-KsSI/0.jpg" alt="Final Presentation" width="240" height="180" /></a>
-
-* [Demo Video](https://youtu.be/G5G5Bd6gEag)
-
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=G5G5Bd6gEag" target="_blank"><img src="http://img.youtube.com/vi/G5G5Bd6gEag/0.jpg" alt="Demo Video" width="240" height="180" /></a>
-
-## Project Repos
-Our code for this project is stored via Azure DevOps, the links are below:
-* [PlantParenthood.Android](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Android)
-* [PlantParenthood.Pi](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Pi)
-* [PlantParenthood.API](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.API)
 
 ## Project Abstract
 Plant Parenthood is an attempt to facilitate and modernize the at-home plant care experience. Our goal is to provide education and assistance for at-home plant care in a way that is accessible, affordable, and attractive through the use of effective metrics, valuable user feedback, and an aesthetically pleasing mobile application.
@@ -54,6 +41,32 @@ Plant Parenthood is an attempt to facilitate and modernize the at-home plant car
 Plants can be difficult to take care of - they require consistent attention, different species need different care, and unless you are familiar with plants you may not know what it is that a plant needs to be healthy or what is lacking in the care you provide. 
 We seek to create a holistic solution to this problem, by creating an interactive system that supplements the caretaking process and provides helpful insight to improve the health of your plant. 
 We aim to monitor plant health and provide the plant-owner with relevant caretaking information. This will be accomplished using a Raspberry Pi to measure different metrics related to plant health (exposure to light, rhizosphere moisture level, pH, and relative humidity), and then will be analyzed to provide the user with helpful feedback regarding plant health and advice for future care.
+
+***
+
+## Project Videos
+* [Final Presentation](https://youtu.be/ASxNq7-KsSI)
+    
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=ASxNq7-KsSI" target="_blank"><img src="http://img.youtube.com/vi/ASxNq7-KsSI/0.jpg" alt="Final Presentation" width="240" height="180" /></a>
+
+* [Demo Video](https://youtu.be/G5G5Bd6gEag)
+
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=G5G5Bd6gEag" target="_blank"><img src="http://img.youtube.com/vi/G5G5Bd6gEag/0.jpg" alt="Demo Video" width="240" height="180" /></a>
+
+
+***
+
+## Project Repos
+Our code for this project is stored via Azure DevOps, the links are below:
+* [PlantParenthood.Android](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Android)
+* [PlantParenthood.Pi](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.Pi)
+* [PlantParenthood.API](https://dev.azure.com/frischmf/Plant%20Parenthood/_git/PlantParenthood.API)
+
+***
+
+## Test Plan
+
+[Test Plan](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/TestPlan.md)
 
 ***
 
