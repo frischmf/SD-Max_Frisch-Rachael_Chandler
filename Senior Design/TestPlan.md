@@ -139,15 +139,15 @@ Therefore, our testing will significantly focus on the successful interactions b
 ## Test Case Matrix
 
 | Test Case | Purpose | Normal / Abnormal | Blackbox / Whitebox | Functional / Performance | Unit / Integration |
-|---|---|-----|---|---|---|---|---|
-| *API.I* | a | a | a | a| a |
-| *API.II* | a | a | a | a| a |
-| *API.III* | a | a | a | a| a |
-| *And.I* | a | a | a | a| a |
-| *And.II* | a | a | a | a| a |
-| *And.III* | a | a | a | a| a |
-| *Pi.I* | a | a | a | a| a |
-| *Pi.II* | a | a | a | a| a |
-| *Pi.III* | a | a | a | a| a |
+|-----------|---------|-------------------|---------------------|--------------------------|--------------------|
+| *API.I*   | a       | a                 | a                   |                         a| a                  |
+| *API.II*  | a       | a                 | a                   |                         a| a                  |
+| *API.III* | a       | a                 | a                   |                         a| a                  |
+| *And.I*   | a       | a                 | a                   |                         a| a                  |
+| *And.II*  | a       | a                 | a                   |                         a| a                  |
+| *And.III* | a       | a                 | a                   |                         a| a                  |
+| *Pi.I*    | a       | a                 | a                   |                         a| a                  |
+| *Pi.II*   | a       | a                 | a                   |                         a| a                  |
+| *Pi.III*  | a       | a                 | a                   |                         a| a                  |
 
 ***
