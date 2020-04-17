@@ -5,19 +5,20 @@
 2. [Project Repos](#project-repos)
 3. [Project Abstract](#project-abstract)
 4. [Project Description](#project-description)
-5. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
+5. [User Documentation](#user-documentation)
+6. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
     * [User Stories](#user-stories)
     * [Design Diagrams](#design-diagrams)
-6. [Project Tasks and Timeline](#project-tasks-and-timeline)
+7. [Project Tasks and Timeline](#project-tasks-and-timeline)
     * [Task List](#task-list)
     * [Timeline](#timeline)
     * [Effort Matrix](#effort-matrix)
-7. [PPT Slideshow](#ppt-slideshow)
-8. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
-9. [Professional Biographies](#professional-biographies)
-10. [Budget](#budget)
-11. [Appendix](#appendix)
-12. [Attributions](#attributions)
+8. [PPT Slideshow](#ppt-slideshow)
+9. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
+10. [Professional Biographies](#professional-biographies)
+11. [Budget](#budget)
+12. [Appendix](#appendix)
+13. [Attributions](#attributions)
 
 ***
 
@@ -48,6 +49,12 @@ Plant Parenthood is an attempt to facilitate and modernize the at-home plant car
 Plants can be difficult to take care of - they require consistent attention, different species need different care, and unless you are familiar with plants you may not know what it is that a plant needs to be healthy or what is lacking in the care you provide. 
 We seek to create a holistic solution to this problem, by creating an interactive system that supplements the caretaking process and provides helpful insight to improve the health of your plant. 
 We aim to monitor plant health and provide the plant-owner with relevant caretaking information. This will be accomplished using a Raspberry Pi to measure different metrics related to plant health (exposure to light, rhizosphere moisture level, pH, and relative humidity), and then will be analyzed to provide the user with helpful feedback regarding plant health and advice for future care.
+
+***
+
+## User Documentation
+
+[User Documentation](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/User%20Documentation.md)
 
 ***
 
