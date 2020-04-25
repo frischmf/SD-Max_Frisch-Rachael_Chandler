@@ -117,78 +117,186 @@ Therefore, our testing will significantly focus on the successful interactions b
 ***
 #### Test Case And.I
 
-    Purpose: Test interaction with API through gRPC.
+    Purpose: 
+        Test interaction with API through gRPC.
 
-    Description:
+    Description: 
+        Send PlantFactorRequest to the API through Android client, verifying the ability to send requests and to receive data upon retrieval of the PlantFactorReply.
 
-    Inputs:
+    Inputs: 
+        Upon entering PlantOverview component from the PlantList, a PlantFactorRequest will be sent to retrieve current data.
 
     Expected Result:
+        It is expected to receive a valid PlantFactorReply with reasonable ranges for each factor (Temperature, Soil Moisture, Light Exposure, Air Pressure, Humidity),
+    
+    Normal / Abnormal / Boundary:
+        
+        Normal
 
-    Functional Indication:
+    Blackbox / Whitebox:
+        
+        Whitebox
+
+    Functional / Performance:
+
+        Functional
+
+    Unit / Integration:
+        
+        Integration
 
 #### Test Case And.II
 
-    Purpose: Test User Token generation & authentication.
+    Purpose: 
+        Test User Token generation & authentication.
     
-    Description:
+    Description: 
+        Upon logging in, a user token should be generated that is then used on subsequent login attempts to automatically bring the user to their plant list. This verifies the generation and use of the token.
 
-    Inputs:
+    Inputs: 
+        Send usp_Login request with a test username & password, and upon successfully receiving a token send a subsequent request to usp_Login with the token rather than the username / password.
 
     Expected Result:
+        In both instances, usp_Login should return relevant user data if successful.
+    
+    Normal / Abnormal / Boundary:
+        
+        Normal
 
-    Functional Indication:
+    Blackbox / Whitebox:
+        
+        Whitebox
+
+    Functional / Performance:
+
+        Functional
+
+    Unit / Integration:
+        
+        Unit
 
 #### Test Case And.III
 
-    Purpose: Test ability to retrieve current Plant Factors from API.
+    Purpose: 
+        Test ability to add a plant to the PlantList.
     
-    Description:
+    Description: 
+        Verify that sending a CreatePlant request to the API will return a new plant associated with the user that triggered the action.
 
-    Inputs:
+    Inputs: 
+        A valid CreatePlant request containing the new plant's nickname and type.
 
     Expected Result:
+        A CreatePlant reply should be returned containing the newly created Plant's ID.
+    
+    Normal / Abnormal / Boundary:
+        
+        Normal
 
-    Functional Indication:
+    Blackbox / Whitebox:
+        
+        Whitebox
+
+    Functional / Performance:
+
+        Functional
+
+    Unit / Integration:
+        
+        Unit
 
 
 ### PlantParenthood.Pi
 ***
 #### Test Case Pi.I
 
-    Purpose: Test gRPC client functionality & interaction with API.
+    Purpose: 
+        Test gRPC client functionality & interaction with API.
 
-    Description:
+    Description: 
+        Send mock PlantFactorReply from test gRPC client, to verify that values are stored in the DB.
 
-    Inputs:
+    Inputs: 
+        PlantFactorReply with valid Temperature, Soil Moisture, Air Pressure, Light Exposure, and Humidity.
 
     Expected Result:
+        PlantFactorID should be returned that verifies the newly saved record.
+    
+    Normal / Abnormal / Boundary:
+        
+        Normal
 
-    Functional Indication:
+    Blackbox / Whitebox:
+        
+        Whitebox
+
+    Functional / Performance:
+
+        Functional
+
+    Unit / Integration:
+        
+        Integration
 
 #### Test Case Pi.II
 
-    Purpose: Test interaction with attached sensors.
+    Purpose: 
+        Test interaction with attached sensors.
     
-    Description:
+    Description: 
+        Send mock PlantFactorReply from test gRPC client, to verify that values are stored in the DB.
 
-    Inputs:
+    Inputs: 
+        PlantFactorReply with valid Temperature, Soil Moisture, Air Pressure, Light Exposure, and Humidity.
 
     Expected Result:
+        PlantFactorID should be returned that verifies the newly saved record.
+    
+    Normal / Abnormal / Boundary:
+        
+        Normal
 
-    Functional Indication:
+    Blackbox / Whitebox:
+        
+        Whitebox
+
+    Functional / Performance:
+
+        Functional
+
+    Unit / Integration:
+        
+        Unit
 
 #### Test Case Pi.III
 
-    Purpose: Test interaction with API as gRPC server.
+    Purpose: 
+        Test interaction with API as gRPC server.
     
-    Description:
+    Description: 
+        Send mock PlantFactorReply from test gRPC client, to verify that values are stored in the DB.
 
-    Inputs:
+    Inputs: 
+        PlantFactorReply with valid Temperature, Soil Moisture, Air Pressure, Light Exposure, and Humidity.
 
     Expected Result:
+        PlantFactorID should be returned that verifies the newly saved record.
+    
+    Normal / Abnormal / Boundary:
+        
+        Normal
 
-    Functional Indication:
+    Blackbox / Whitebox:
+        
+        Whitebox
+
+    Functional / Performance:
+
+        Functional
+
+    Unit / Integration:
+        
+        Integration
 
 *** 
 
@@ -199,9 +307,9 @@ Therefore, our testing will significantly focus on the successful interactions b
 | **API**.I   | Test interaction with gRPC server on Pi hub. | Normal | Whitebox | Functional | Integration |
 | **API**.II  | Test notification service implementation with Android client. | Normal | Whitebox | Functional | Integration |
 | **API**.III | Test interaction with DB, saving Plant Data. | Normal | Whitebox | Functional | Integration |
-| **And**.I   |         |                   |                     |                          |                    |
-| **And**.II  |         |                   |                     |                          |                    |
-| **And**.III |         |                   |                     |                          |                    |
+| **And**.I   | Test interaction with API through gRPC. | Normal | Whitebox | Functional | Integration |
+| **And**.II  | Test User Token generation & authentication. | Normal | Whitebox | Functional | Unit |
+| **And**.III | Test ability to add a plant to the PlantList. | Normal | Whitebox | Functional | Unit |
 | **Pi**.I    |         |                   |                     |                          |                    |
 | **Pi**.II   |         |                   |                     |                          |                    |
 | **Pi**.III  |         |                   |                     |                          |                    |
