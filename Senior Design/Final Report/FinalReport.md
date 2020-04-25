@@ -28,25 +28,37 @@ We aim to monitor plant health and provide the plant-owner with relevant caretak
 
 ### Sign In
 
+The Sign-In screen is the first interface the user experiences, from here they have the ability to sign in with a pre-existing account or to create a new one.
+
    <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/SignIn.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/SignIn.png" alt="Sign In" width="180" height="360" /></a>
 
 ### Create Account
+
+If deciding to create an account, all that is required is to enter your name, email, and password. This then generates a user token and allows you to automatically sign in upon opening the application again.
 
    <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/CreateAccount.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/CreateAccount.png" alt="Create Account" width="180" height="360" /></a>
 
 ### Plant List
 
+This is the central hub, after signing into the application this is the interface that the user is most often presented with. It was created with the intent of easily showing the overall status of your garden's individual plants at a glance. Upon selecting an individual plant you are brought to that plant's overview where you can look into more detailed and current information.
+
    <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantList.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantList.png" alt="Plant List" width="180" height="360" /></a>
 
 ### Plant Overview
+
+The overview is designed to present current plant factors gathered, and to quickly provide feedback as to which ones could use some immediate work. Factors bolded in red are in "danger" and need attention. If the user is seeking more detailed information as to bringing those danger factors into a safe range, they can hit the hyperlink "Plant needs some attention" to bring up their "Plant Tips".
 
    <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantOverview.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantOverview.png" alt="Plant Overview" width="180" height="360" /></a>
 
 ### Plant Tips
 
+Plant Tips are personalized to the constraints of the particular plant-type and its current needs. It provides instant feedback that clues the user into what we believe is a safe range for the selected plant.
+
    <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantTips.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantTips.png" alt="Plant Tips" width="180" height="360" /></a>
 
-### Historical Logs
+### Historical Averages
+
+Historical Averages are presented to allow the user to see the progress they've made and to have a means of keeping track of their plant's health over a period of time. This screen is accessed from the bottom navigation bar by selecting "Logs".
 
    <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/HistoricalAverages.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/HistoricalAverages.png" alt="Historical Logs" width="180" height="360" /></a>
 
