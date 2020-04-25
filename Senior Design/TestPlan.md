@@ -211,16 +211,16 @@ Therefore, our testing will significantly focus on the successful interactions b
 #### Test Case Pi.I
 
     Purpose: 
-        Test gRPC client functionality & interaction with API.
+        Test gRPC client automated logging.
 
     Description: 
-        Send mock PlantFactorReply from test gRPC client, to verify that values are stored in the DB.
+        Plant Factors are sent to the DB every 10 minutes from the gRPC client on the Raspberry Pi - this test verifies after 10 minutes that new Plant Factors are present.
 
     Inputs: 
-        PlantFactorReply with valid Temperature, Soil Moisture, Air Pressure, Light Exposure, and Humidity.
+        A request is sent to the DB to retrieve the last logged PlantFactors, wait 10 minutes, and then checks again to compare.
 
     Expected Result:
-        PlantFactorID should be returned that verifies the newly saved record.
+        It is expected that the two sets of PlantFactors retrieved will have differing PlantFactorIDs.
     
     Normal / Abnormal / Boundary:
         
@@ -244,13 +244,13 @@ Therefore, our testing will significantly focus on the successful interactions b
         Test interaction with attached sensors.
     
     Description: 
-        Send mock PlantFactorReply from test gRPC client, to verify that values are stored in the DB.
+        Run the Plant Factor retrieval script to ensure that each sensor returns data within acceptable ranges, ensuring that each sensor is working appropriately.
 
     Inputs: 
-        PlantFactorReply with valid Temperature, Soil Moisture, Air Pressure, Light Exposure, and Humidity.
+        Run PlantParenthood.py and evaluate the retrieved data, if any.
 
     Expected Result:
-        PlantFactorID should be returned that verifies the newly saved record.
+        Each sensor should return data within pre-defined 'reasonable' constraints.
     
     Normal / Abnormal / Boundary:
         
@@ -274,10 +274,10 @@ Therefore, our testing will significantly focus on the successful interactions b
         Test interaction with API as gRPC server.
     
     Description: 
-        Send mock PlantFactorReply from test gRPC client, to verify that values are stored in the DB.
+        Retrieve current Plant Factors from PlantParenthood.py and send them to the API, saving them and returning the relevant PlantFactorID.
 
     Inputs: 
-        PlantFactorReply with valid Temperature, Soil Moisture, Air Pressure, Light Exposure, and Humidity.
+        Run PlantParenthood.py, and attempt to send the retrieved Plant Factors to the API.
 
     Expected Result:
         PlantFactorID should be returned that verifies the newly saved record.
@@ -310,8 +310,8 @@ Therefore, our testing will significantly focus on the successful interactions b
 | **And**.I   | Test interaction with API through gRPC. | Normal | Whitebox | Functional | Integration |
 | **And**.II  | Test User Token generation & authentication. | Normal | Whitebox | Functional | Unit |
 | **And**.III | Test ability to add a plant to the PlantList. | Normal | Whitebox | Functional | Unit |
-| **Pi**.I    |         |                   |                     |                          |                    |
-| **Pi**.II   |         |                   |                     |                          |                    |
-| **Pi**.III  |         |                   |                     |                          |                    |
+| **Pi**.I    | Test gRPC client automated logging. | Normal | Whitebox | Functional | Integration |
+| **Pi**.II   | Test interaction with attached sensors. | Normal | Whitebox | Functional | Unit |
+| **Pi**.III  | Test interaction with API as gRPC server. | Normal | Whitebox | Functional | Integration |
 
 ***
