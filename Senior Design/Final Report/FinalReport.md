@@ -17,6 +17,8 @@
 
 ## Project Description
 
+Plant Parenthood is an attempt to facilitate and modernize the at-home plant care experience. Our goal is to provide education and assistance for at-home plant care in a way that is accessible, affordable, and attractive through the use of effective metrics, valuable user feedback, and an aesthetically pleasing mobile application.
+
 Plants can be difficult to take care of - they require consistent attention, different species need different care, and unless you are familiar with plants you may not know what it is that a plant needs to be healthy or what is lacking in the care you provide. 
 
 We seek to create a holistic solution to this problem, by creating an interactive system that supplements the caretaking process and provides helpful insight to improve the health of your plant. 
