@@ -20,11 +20,11 @@ Therefore, our testing will significantly focus on the successful interactions b
 
 ### PlantParenthood.API
 ***
-#### Test Case AP.I
+#### Test Case API.I
 
-    Purpose: 
+    Purpose: Test interaction with gRPC server on Pi hub.
 
-    Description:
+    Description: 
 
     Inputs:
 
@@ -32,9 +32,9 @@ Therefore, our testing will significantly focus on the successful interactions b
 
     Functional Indication:
 
-#### Test Case AP.II
+#### Test Case API.II
 
-    Purpose: 
+    Purpose: Test notification service implementation with Android client.
     
     Description:
 
@@ -44,9 +44,9 @@ Therefore, our testing will significantly focus on the successful interactions b
 
     Functional Indication:
 
-#### Test Case AP.III
+#### Test Case API.III
 
-    Purpose: 
+    Purpose: Test interaction with DB, saving Plant Data.
     
     Description:
 
@@ -61,7 +61,7 @@ Therefore, our testing will significantly focus on the successful interactions b
 ***
 #### Test Case And.I
 
-    Purpose: 
+    Purpose: Test interaction with API through gRPC.
 
     Description:
 
@@ -71,9 +71,9 @@ Therefore, our testing will significantly focus on the successful interactions b
 
     Functional Indication:
 
-#### Test Case And.I
+#### Test Case And.II
 
-    Purpose: 
+    Purpose: Test User Token generation & authentication.
     
     Description:
 
@@ -83,9 +83,9 @@ Therefore, our testing will significantly focus on the successful interactions b
 
     Functional Indication:
 
-#### Test Case And.I
+#### Test Case And.III
 
-    Purpose: 
+    Purpose: Test ability to retrieve current Plant Factors from API.
     
     Description:
 
@@ -100,7 +100,7 @@ Therefore, our testing will significantly focus on the successful interactions b
 ***
 #### Test Case Pi.I
 
-    Purpose: 
+    Purpose: Test gRPC client functionality & interaction with API.
 
     Description:
 
@@ -112,7 +112,7 @@ Therefore, our testing will significantly focus on the successful interactions b
 
 #### Test Case Pi.II
 
-    Purpose: 
+    Purpose: Test interaction with attached sensors.
     
     Description:
 
@@ -124,7 +124,7 @@ Therefore, our testing will significantly focus on the successful interactions b
 
 #### Test Case Pi.III
 
-    Purpose: 
+    Purpose: Test interaction with API as gRPC server.
     
     Description:
 
