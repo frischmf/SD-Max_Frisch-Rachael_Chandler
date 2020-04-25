@@ -99,15 +99,15 @@ Historical Averages are presented to allow the user to see the progress they've 
 
 ### Initial Self-Assessments
 
-[Max's Initial Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%203/Assignment%203%20-%20Max%20Frisch.md)
+[Max's Initial Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Fall%20Assignments/Assignment%203/Assignment%203%20-%20Max%20Frisch.md)
 
-[Rachael's Initial Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%203/Assigment%203%20-%20Rachael%20Chandler.md)
+[Rachael's Initial Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Fall%20Assignments/Assignment%203/Assigment%203%20-%20Rachael%20Chandler.md)
 
 ### Final Self-Assessments
 
-[Max's Final Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%203/Assignment%203%20-%20Max%20Frisch.md)
+[Max's Final Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Final%20Self-Assessments/SelfAssessment_Max.md)
 
-[Rachael's Final Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%203/Assigment%203%20-%20Rachael%20Chandler.md)
+[Rachael's Final Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Final%20Self-Assessments/SelfAssessment_Rachael.md)
 
 ***
 

@@ -39,12 +39,14 @@ Plant Parenthood is an attempt to facilitate and modernize the at-home plant car
 
 ## Project Description
 Plants can be difficult to take care of - they require consistent attention, different species need different care, and unless you are familiar with plants you may not know what it is that a plant needs to be healthy or what is lacking in the care you provide. 
+
 We seek to create a holistic solution to this problem, by creating an interactive system that supplements the caretaking process and provides helpful insight to improve the health of your plant. 
 We aim to monitor plant health and provide the plant-owner with relevant caretaking information. This will be accomplished using a Raspberry Pi to measure different metrics related to plant health (exposure to light, rhizosphere moisture level, pH, and relative humidity), and then will be analyzed to provide the user with helpful feedback regarding plant health and advice for future care.
 
 ***
 
 ## Project Videos
+
 * [Final Presentation](https://youtu.be/ASxNq7-KsSI)
     
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=ASxNq7-KsSI" target="_blank"><img src="http://img.youtube.com/vi/ASxNq7-KsSI/0.jpg" alt="Final Presentation" width="240" height="180" /></a>
@@ -157,12 +159,12 @@ Our code for this project is stored via Azure DevOps, the links are below:
 ***
 
 ### Timeline   
-<img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Assignment%206/Timeline.png" width="1004">
+<img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Fall%20Assignments/Assignment%206/Timeline.png" width="1004">
 
 ***
 
 ### Effort Matrix
-[Effort Matrix](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%206/Timeline%20%26%20Effort%20Matrix.pdf)
+[Effort Matrix](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Fall%20Assignments/Assignment%206/Timeline%20%26%20Effort%20Matrix.pdf)
 
 ***
 
@@ -175,9 +177,9 @@ Our code for this project is stored via Azure DevOps, the links are below:
 
 ## Fall Semester Self-Assessment Essays
 
-[Max's Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%203/Assignment%203%20-%20Max%20Frisch.md)
+[Max's Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Fall%20Assignments/Assignment%203/Assignment%203%20-%20Max%20Frisch.md)
 
-[Rachael's Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Assignment%203/Assigment%203%20-%20Rachael%20Chandler.md)
+[Rachael's Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Fall%20Assignments/Assignment%203/Assigment%203%20-%20Rachael%20Chandler.md)
 
 ***
 
