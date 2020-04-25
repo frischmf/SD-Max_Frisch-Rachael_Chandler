@@ -77,6 +77,21 @@ Historical Averages are presented to allow the user to see the progress they've 
 
 [User Documentation](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/User%20Documentation.md)
 
+#### FAQ
+
+* Where can I get one of these fancy Plant Parenthood hubs? Sign me up!
+
+    These hubs are still in development, and were produced for the purpose of our Senior Design project. Other than the demo hub, none other exist... for now.
+
+* I only receive one notification a day but would like to get more. How can I make that happen?
+
+    While developing this solution we didn't want to overwhelm you with multiple notifications a day - we wanted the care taking experience to feel enjoyable, not as if you were being nagged. We may in the future implement preferences for notifications, as well as preferred constraints for a particular plant, rather than just determining what we think is healthy based on the type of plant it is.
+
+* Plant Parenthood says my apartment is 165 degrees Fahrenheit and -40% humid... what's up with that?
+
+    To keep Plant Parenthood affordable we've done our best to compromise between affordable sensors and effective data gathering. This is a rare problem, but it does happen... and it's always fixed by a good whack to the hub!
+
+
 ***
 
 ## Spring Final PPT Presentation
