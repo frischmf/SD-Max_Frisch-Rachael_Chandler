@@ -113,7 +113,7 @@ Historical Averages are presented to allow the user to see the progress they've 
 
 ## Summary of Hours & Justification
 
-
+[Summary of Hours - Spring Semester](https://docs.google.com/spreadsheets/d/1oC78x76Ll7wg6k66jJxOG4p9fTJtGcVxjtpfKQ69jag/edit?usp=sharing)
 
 ***
 
