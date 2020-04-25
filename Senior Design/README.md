@@ -1,28 +1,32 @@
 # Plant Parenthood
 
 ## Table of Contents
-1. [Project Abstract](#project-abstract)
+1. [Final Report](#final-report)
+2. [Project Abstract](#project-abstract)
     * [Team Members](#team-members)
-2. [Project Description](#project-description)
-3. [Project Videos](#project-videos)
-4. [Project Repos](#project-repos)
-5. [Test Plan](#test-plan)
-6. [User Documentation](#user-documentation)
-7. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
+3. [Project Description](#project-description)
+4. [Project Videos](#project-videos)
+5. [Project Repos](#project-repos)
+6. [Test Plan](#test-plan)
+7. [User Documentation](#user-documentation)
+8. [User Stories & Design Diagram](#user-stories-&-design-diagrams)
     * [User Stories](#user-stories)
     * [Design Diagrams](#design-diagrams)
-8. [Project Tasks and Timeline](#project-tasks-and-timeline)
+9. [Project Tasks and Timeline](#project-tasks-and-timeline)
     * [Task List](#task-list)
     * [Timeline](#timeline)
     * [Effort Matrix](#effort-matrix)
-9. [PPT Slideshow](#ppt-slideshow)
-10. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
-11. [Professional Biographies](#professional-biographies)
-12. [Budget](#budget)
-13. [Appendix](#appendix)
+10. [PPT Slideshow](#ppt-slideshow)
+11. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
+12. [Professional Biographies](#professional-biographies)
+13. [Budget](#budget)
 14. [Attributions](#attributions)
 
 ***
+
+## Final Report
+
+[Final Report](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Final%20Report/FinalReport.md)
 
 ## Project Abstract
 Plant Parenthood is an attempt to facilitate and modernize the at-home plant care experience. Our goal is to provide education and assistance for at-home plant care in a way that is accessible, affordable, and attractive through the use of effective metrics, valuable user feedback, and an aesthetically pleasing mobile application.
@@ -181,6 +185,12 @@ Our code for this project is stored via Azure DevOps, the links are below:
 
 [Rachael's Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Fall%20Assignments/Assignment%203/Assigment%203%20-%20Rachael%20Chandler.md)
 
+### Final Self-Assessments
+
+[Max's Final Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Final%20Self-Assessments/SelfAssessment_Max.md)
+
+[Rachael's Final Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Final%20Self-Assessments/SelfAssessment_Rachael.md)
+
 ***
 
 ## Professional Biographies
@@ -228,10 +238,6 @@ This summer I lead a project exploring a POC for implemeting robotic process aut
 **Total Estimated Cost: $125**
 
 **Actual Cost: ~$160**
-
-***
-
-## Appendix
 
 ***
 
