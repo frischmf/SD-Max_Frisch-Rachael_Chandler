@@ -105,9 +105,19 @@ Historical Averages are presented to allow the user to see the progress they've 
 
 ### Final Self-Assessments
 
-[Max's Final Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Final%20Self-Assessments/SelfAssessment_Max.md)
+#### Max's Final Self-Assessment
 
-[Rachael's Final Self-Assessment](https://github.com/frischmf/SD-Max_Frisch-Rachael_Chandler/blob/master/Senior%20Design/Final%20Self-Assessments/SelfAssessment_Rachael.md)
+I contributed the majority of the software and hardware implementation of the Plant Parenthood project. This includes putting together the Raspberry Pi, installation into the plant, and laying the architecture for the solution – I created and deployed the database, API, Pi, and Android client and ensured that each endpoint was able to communicate with each-other. I certainly applied and built upon the foundation of the initial assessment from the Fall, but I feel that much of my learning came from the unforeseen difficulties and challenges that came from creating this project from the ground up.
+
+More specifically I learned how to create a service (that begins on startup) on a Raspberry Pi, able to read sensor data and communicate that data with a server utilizing gRPC. That server (the API) functions as the control layer that communicates with the Azure SQL Database through Entity Framework, and also feeds data directly to the Android client written in primarily Kotlin. I feel that I’ve become far more competent in producing functional project architecture – the most difficult part was just getting everything set up. Once we had the connection wired and gRPC was functioning as expected the rest followed from prior experience within the Computer Science curriculum. I also feel that I’ve grown in competency programming in multiple languages (C#, Python, Kotlin, Java), I feel that I’ve significantly grown in my understanding of real data retrieval and the hardware aspect of computer engineering, and I have a much better understanding of the client / server relationship.
+
+To be honest, Covid-19 was a major obstacle. There were many parts we weren’t aware that we needed until we needed them (Analog to Digital Converter, additional wiring, breadboards, soldering), and at that point shipping moved from 2 days to 3 weeks and our ability to shop freely was significantly inhibited. We found what we needed, but it was certainly an unforeseen difficulty.
+
+#### Rachael's Final Self-Assessment
+
+A big part of my role for this project was project planning and management. I created schedules and made sure we stayed on track, researched all the equipment we would need and created our expense report, and kept track of meetings that we had. I also did a lot of work for the two presentations that we created, contributing content to the power points and narration. I worked with our advisor to create a scope for our project, and then build ideas for how our project could be utilized in the future (such as increasing the scale and adding commercial applications).
+
+I learned a lot about project management. I had never really taken on a project of this scope before, so my past projects didn’t have as much of a need for project management. I was not as involved with the coding of our project, largely because of the quarantine that went into effect half way through the semester, but there was still a lot to contribute as far as working on the poster and content of the project, and making it easy to understand from an outside view. I feel that our project turned out quite well in light of the circumstances of this semester. One of the largest obstacles to me was the quarantine. I traveled during spring break, so when I returned, I had to self-quarantine for 2 weeks. After that, the entire state was quarantined, and my partner and I could no longer meet in person. Since he had all the hardware, there wasn’t a whole lot I could do to help with the building and testing of our project. However, I feel that my contribution to our project was still significant, especially in our presentation tools.
 
 ***
 
