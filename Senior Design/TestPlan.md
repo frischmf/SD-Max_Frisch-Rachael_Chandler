@@ -1,14 +1,14 @@
 # Test Plan
 
 ## Table of Contents
-1. [Overview](#overview)
+1. [Overall Test Plan](#overall-test-plan)
 2. [Test Case Descriptions](#test-case-descriptions)
     * [PlantParenthood.API](#plantparenthood.api)
     * [PlantParenthood.Android](#plantparenthood.android)
     * [PlantParenthood.Pi](#plantparenthood.pi)
 3. [Test Case Matrix](#test-case-matrix)
 
-## Overview
+## Overall Test Plan
 
 Plant Parenthood will utilize testing that ensures basic functionality of the core services it provides. Due to the nature of the application, our user-facing activities are easily tested - we did our best to stray away from complicated interactions for the sake of simplicitity and maintenance.
 
@@ -22,39 +22,95 @@ Therefore, our testing will significantly focus on the successful interactions b
 ***
 #### Test Case API.I
 
-    Purpose: Test interaction with gRPC server on Pi hub.
+    Purpose: 
+        Test interaction with gRPC server on Pi hub.
 
     Description: 
+        Verify that sending a PlantFactorRequest from our test gRPC client returns current plant factors for installed Pi.
 
-    Inputs:
+    Inputs: 
+        PlantFactorRequest of type 'all'.
 
     Expected Result:
+        PlantFactorReply containing reasonable Temperature, Air Pressure, Humidity, Light Exposure, and Soil Moisture.
+    
+    Normal / Abnormal / Boundary:
+        
+        Normal
 
-    Functional Indication:
+    Blackbox / Whitebox:
+        
+        Whitebox
+
+    Functional / Performance:
+
+        Functional
+
+    Unit / Integration:
+        
+        Integration
+
+        
 
 #### Test Case API.II
 
-    Purpose: Test notification service implementation with Android client.
+    Purpose: 
+        Test notification service implementation with Android client.
     
-    Description:
+    Description: 
+        Send PlantAnalysis() results to the API that signify the need for a notification to be sent to the user.
 
-    Inputs:
+    Inputs: 
+        PlantAnalysis() result with 2 or more constraint violations.
 
     Expected Result:
+        A notification should be sent to the user prompting them to view the related plant.
+    
+    Normal / Abnormal / Boundary:
+        
+        Normal
 
-    Functional Indication:
+    Blackbox / Whitebox:
+        
+        Whitebox
+
+    Functional / Performance:
+
+        Functional
+
+    Unit / Integration:
+        
+        Integration
 
 #### Test Case API.III
 
-    Purpose: Test interaction with DB, saving Plant Data.
+    Purpose: 
+        Test interaction with DB, saving Plant Data.
     
-    Description:
+    Description: 
+        Send mock PlantFactorReply from test gRPC client, to verify that values are stored in the DB.
 
-    Inputs:
+    Inputs: 
+        PlantFactorReply with valid Temperature, Soil Moisture, Air Pressure, Light Exposure, and Humidity.
 
     Expected Result:
+        PlantFactorID should be returned that verifies the newly saved record.
+    
+    Normal / Abnormal / Boundary:
+        
+        Normal
 
-    Functional Indication:
+    Blackbox / Whitebox:
+        
+        Whitebox
+
+    Functional / Performance:
+
+        Functional
+
+    Unit / Integration:
+        
+        Integration
 
 
 ### PlantParenthood.Android
@@ -139,10 +195,10 @@ Therefore, our testing will significantly focus on the successful interactions b
 ## Test Case Matrix
 
 | Test Case   | Purpose | Normal / Abnormal | Blackbox / Whitebox | Functional / Performance | Unit / Integration |
-|-------------|---------|-------------------|---------------------|--------------------------|--------------------|
-| **API**.I   |         |                   |                     |                          |                    |
-| **API**.II  |         |                   |                     |                          |                    |
-| **API**.III |         |                   |                     |                          |                    |
+|-------------|:--------|:-----------------:|:-------------------:|:------------------------:|:------------------:|
+| **API**.I   | Test interaction with gRPC server on Pi hub. | Normal | Whitebox | Functional | Integration |
+| **API**.II  | Test notification service implementation with Android client. | Normal | Whitebox | Functional | Integration |
+| **API**.III | Test interaction with DB, saving Plant Data. | Normal | Whitebox | Functional | Integration |
 | **And**.I   |         |                   |                     |                          |                    |
 | **And**.II  |         |                   |                     |                          |                    |
 | **And**.III |         |                   |                     |                          |                    |
