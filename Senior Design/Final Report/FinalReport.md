@@ -28,27 +28,27 @@ We aim to monitor plant health and provide the plant-owner with relevant caretak
 
 ### Sign In
 
-   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/SignIn.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/SignIn.png" alt="Sign In" width="360" height="720" /></a>
+   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/SignIn.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/SignIn.png" alt="Sign In" width="180" height="360" /></a>
 
 ### Create Account
 
-   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/CreateAccount.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/CreateAccount.png" alt="Create Account" width="360" height="720" /></a>
+   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/CreateAccount.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/CreateAccount.png" alt="Create Account" width="180" height="360" /></a>
 
 ### Plant List
 
-   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantList.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantList.png" alt="Plant List" width="360" height="720" /></a>
+   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantList.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantList.png" alt="Plant List" width="180" height="360" /></a>
 
 ### Plant Overview
 
-   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantOverview.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantOverview.png" alt="Plant Overview" width="360" height="720" /></a>
+   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantOverview.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantOverview.png" alt="Plant Overview" width="180" height="360" /></a>
 
 ### Plant Tips
 
-   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantTips.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantTips.png" alt="Plant Tips" width="360" height="720" /></a>
+   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantTips.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/PlantTips.png" alt="Plant Tips" width="180" height="360" /></a>
 
 ### Historical Logs
 
-   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/HistoricalAverages.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/HistoricalAverages.png" alt="Historical Logs" width="360" height="720" /></a>
+   <a href="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/HistoricalAverages.png" target="_blank"><img src="https://raw.githubusercontent.com/frischmf/SD-Max_Frisch-Rachael_Chandler/master/Senior%20Design/Final%20Report/res/HistoricalAverages.png" alt="Historical Logs" width="180" height="360" /></a>
 
 
 ***
