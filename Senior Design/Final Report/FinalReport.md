@@ -10,7 +10,7 @@
 7. [Assessments](#assessments)
     * [Initial Self-Assessments](#initial-self-assessments)
     * [Final Self-Assessments](#final-self-assessments)
-8. [Summary of Hours & Justification](#summary-of-hours-&-justification)
+8. [Summary of Hours & Justification](#summary-of-hours-and-justification)
 9. [Summary of Expenses](#summary-of-expenses)
 
 ***
@@ -111,7 +111,7 @@ Historical Averages are presented to allow the user to see the progress they've 
 
 ***
 
-## Summary of Hours & Justification
+## Summary of Hours and Justification
 
 [Summary of Hours - Spring Semester](https://docs.google.com/spreadsheets/d/1oC78x76Ll7wg6k66jJxOG4p9fTJtGcVxjtpfKQ69jag/edit?usp=sharing)
 
